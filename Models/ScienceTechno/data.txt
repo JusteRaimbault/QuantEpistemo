@@ -12,4 +12,6 @@ https://arxiv.org/pdf/1805.02262.pdf
 cits sci -> patents: inexistent - or unparsed? 
 -> check uspto
 
+Gorc corpus: https://github.com/allenai/s2-gorc/
+
 
