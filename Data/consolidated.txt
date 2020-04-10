@@ -3,6 +3,16 @@
 
 
 
-* 2019/06/08 : citynetwork (imported from https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/DYHBCV/BKCRVS&version=1.0 ) [thesis bib ] 
+* 2019/06/16 : all conso OK
+* 2019/06/14 : conso zipf OK ; running turingmorpho, citynetwork, urbangrowth
+* 2019/06/12 : conso nwterrit : OK
+* 2019/06/11 : conso running : turngmorpho, urbangrowth, nwterrit, zipf, citynetwork
+* 2019/06/08 : IMPORT RUNNING : turingmorpho
+* 2019/06/08 : IMPORT RUNNING : urbangrowth
+* 2019/06/08 : IMPORT RUNNING : nwterrit
+* 2019/06/08 : CONSO RUNNING : urbmod (urbmod citnw analysis)
+* 2019/06/08 : IMPORT RUNNING : zipf (from MetaZipf)
+* 2019/06/08 : IMPORT RUNNING : citynetwork (imported from https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/DYHBCV/BKCRVS&version=1.0 ) [thesis bib ] depth -1 for conso
+* 2019/06/08 : evurbth (from EvUrbTh-cit2 - fixed from one missing origin) ; NRefs = 5508 ; NLinks = 723
 * 2019/05/10 : urbsim ; NRefs = 5047 ; NLinks = 0
 

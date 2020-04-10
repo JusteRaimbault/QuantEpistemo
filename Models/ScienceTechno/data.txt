@@ -1,0 +1,17 @@
+
+
+scicit patents -> sci https://github.com/cverluise/SciCit
+
+bib database EPO
+
+sci full texts: scihub pdf corpus
+
+sci citations semanticscholar https://arxiv.org/pdf/1911.02782.pdf
+https://arxiv.org/pdf/1805.02262.pdf
+
+cits sci -> patents: inexistent - or unparsed? 
+-> check uspto
+
+Gorc corpus: https://github.com/allenai/s2-gorc/
+
+

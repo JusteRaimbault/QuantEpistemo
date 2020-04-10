@@ -1,3 +1,9 @@
 [submodule "Models/BiblioData"]
 	path = Models/BiblioData
 	url = git@github.com:JusteRaimbault/BiblioData.git
+[submodule "Models/ZhenLit"]
+	path = Models/ZhenLit
+	url = git@github.com:JusteRaimbault/ZhenLit.git
+[submodule "Models/SeminalNetworks"]
+	path = Models/SeminalNetworks
+	url = git@github.com:JusteRaimbault/SeminalNetworks.git

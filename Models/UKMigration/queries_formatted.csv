@@ -1,0 +1,11 @@
+internal_migration_UK;"internal migration" Britain OR UK OR England
+residential_mobility_UK;"residential mobility" Britain OR UK OR England
+internal_migration_census_UK;"internal migration" census Britain OR UK OR England
+residential_mobility_census_UK;"residential mobility" census Britain OR UK OR England
+internal_migration_market_UK;"internal migration" "housing market" Britain OR UK OR England
+housing_market_mobility_UK;"housing market" mobility Britain OR UK OR England
+urban_migration_housing_market_UK;"urban migration" "housing market" Britain OR UK OR England
+internal_migration;"internal migration"
+residential_mobility;"residential mobility"
+urban_migration;"urban migration"
+internal_migration_housing;"internal migration" housing
