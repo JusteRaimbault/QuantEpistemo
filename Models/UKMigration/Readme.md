@@ -16,5 +16,7 @@
      { "acknowledged" : true, "matchedCount" : 764, "modifiedCount" : 4 } ; db.references.updateMany({depth:1},{$set:{depth:NumberInt(1)}})
      { "acknowledged" : true, "matchedCount" : 3285, "modifiedCount" : 3285 }
   - export (first layer only) java -jar bibliodata.jar --database --export ukmigration export/corpus_withmanual_20200415 (set priorities to int first)
+  - [Wed 15 Apr 2020 21:15:54 BST] collect second layer ./parrun.sh "java -jar bibliodata.jar --citation --mongo ukmigration 300 2 true" 10
+
 
 
