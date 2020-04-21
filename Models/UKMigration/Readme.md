@@ -17,6 +17,13 @@
      { "acknowledged" : true, "matchedCount" : 3285, "modifiedCount" : 3285 }
   - export (first layer only) java -jar bibliodata.jar --database --export ukmigration export/corpus_withmanual_20200415 (set priorities to int first)
   - [Wed 15 Apr 2020 21:15:54 BST] collect second layer ./parrun.sh "java -jar bibliodata.jar --citation --mongo ukmigration 300 2 true" 10
-
+  - [Thu Apr 16 10:07:56 UTC 2020] killed (also other single thread relaunched with 200)
+  - [Thu Apr 16 14:11:37 UTC 2020]test single thread to see rate  java -jar bibliodata.jar --citation --mongo ukmigration 860 2 true !!! kill, all ips dead
+  - [Fri 17 Apr 2020 14:42:43 BST] single thread 10 papers (test) ; rest: OK [Sun Apr 19 07:04:52 UTC 2020]
+  - [Sun 19 Apr 2020 10:27:57 BST] 5 threads keywords: ./parrun.sh "java -jar bibliodata.jar --citation --mongo ukmigration 200 15 true" 5
+  - [Sun Apr 19 16:59:07 UTC 2020] : layer 1 keywords finished ; 229373;400813;29786
+  - set first layer priority : db.references.updateMany({depth:{$gt:0}},{$set:{priority:NumberInt(1)}})
+     { "acknowledged" : true, "matchedCount" : 33835, "modifiedCount" : 30550 }
+  - collect 5 thread [Sun 19 Apr 2020 18:34:08 BST] killed Mon Apr 20 10:32:24 UTC 2020 ; relaunched 7 threads [Tue Apr 21 14:35:30 UTC 2020]
 
 
