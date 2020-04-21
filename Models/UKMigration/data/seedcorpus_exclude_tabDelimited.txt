@@ -1,0 +1,101 @@
+id	title	year	depth	priority	horizontalDepth	citingFilled	residential_mobility_census_UK	urban_migration_housing_market_UK	residential_mobility	residential_mobility_UK	internal_migration	internal_migration_market_UK	housing_market_mobility_UK	internal_migration_census_UK	urban_migration	internal_migration_housing	internal_migration_UK
+1.09026E+19	Locational behaviour of households in a constrained housing market	1982	0	2147483647	urban_migration_housing_market_UK:59	FALSE	NA	59	NA	NA	NA	NA	NA	NA	NA	NA	NA
+5.96203E+18	 Urban China	2013	0	2147483647	urban_migration_housing_market_UK:69	FALSE	NA	69	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2.48049E+18	Environmental upgrading and intra-urban migration in Calcutta	1989	0	2147483647	urban_migration_housing_market_UK:77	FALSE	NA	77	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2.27708E+18	Recent urban policy in Nigeria: Housing rent edict in the Cross River State	1981	0	2147483647	urban_migration_housing_market_UK:95	FALSE	NA	95	NA	NA	NA	NA	NA	NA	NA	NA	NA
+7.63992E+18	Residential mobility and child mortality in early twentieth century Belfast	2016	0	2147483647	residential_mobility_census_UK:12	FALSE	12	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.79908E+19	 Migration and residential mobility in the United States	1988	0	2147483647	"residential_mobility_census_UK:21,residential_mobility:17,residential_mobility_UK:41"	FALSE	21	NA	17	41	NA	NA	NA	NA	NA	NA	NA
+5.07E+18	"Movers and stayers: The geography of residential mobility and CVD hospitalisations in Auckland, New Zealand"	2015	0	2147483647	residential_mobility_census_UK:33	FALSE	33	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.04702E+18	Schizophrenia in Nottingham: lifelong residential mobility of a cohort	1993	0	2147483647	"residential_mobility_census_UK:37,residential_mobility_UK:68"	FALSE	37	NA	NA	68	NA	NA	NA	NA	NA	NA	NA
+3.22101E+17	Factors associated with residential mobility in children with leukemia: implications for assigning exposures	2009	0	2147483647	"residential_mobility_census_UK:38,residential_mobility_UK:79"	FALSE	38	NA	NA	79	NA	NA	NA	NA	NA	NA	NA
+1.0122E+19	The structural determinants of fear of crime: An analysis using census and crime survey data from England and Wales	1994	0	2147483647	residential_mobility_census_UK:46	FALSE	46	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+6.8043E+18	Residential mobility of aboriginal single mothers in Winnipeg: An exploratory study of chronic moving	2002	0	2147483647	residential_mobility_census_UK:62	FALSE	62	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+8.34442E+17	Residential mobility across local areas in the United States and the geographic distribution of the healthy population	2014	0	2147483647	residential_mobility_census_UK:74	FALSE	74	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.76102E+19	"Residential mobility among patients in the VA health system: associations with psychiatric morbidity, geographic accessibility, and continuity of care"	2007	0	2147483647	residential_mobility_census_UK:78	FALSE	78	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.22415E+19	"Spatial mismatch, discrimination, and male youth employment in the Washington, DC area: Implications for residential mobility policies"	1999	0	2147483647	residential_mobility_census_UK:79	FALSE	79	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.76868E+19	Migration and residential mobility of narcotic drug addicts	1966	0	2147483647	residential_mobility_census_UK:85	FALSE	85	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+7.22809E+18	Routes and branches: residential mobility among Aboriginal people in western New South Wales	2007	0	2147483647	residential_mobility_census_UK:95	FALSE	95	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+1.65211E+18	"The baraccati of Rome: internal migration, housing, and poverty in fascist Italy (1924-1933)"	2017	0	2147483647	internal_migration_housing:93	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	93	NA
+1.46296E+19	A model of labor migration and urban unemployment in less developed countries	1969	0	2147483647	urban_migration:26	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	26	NA	NA
+1.66029E+19	"Income Expections, Rural-urban migration and employment in Africa"	1971	0	2147483647	urban_migration:15	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	15	NA	NA
+1.48713E+19	"Rural-urban migration in Africa: Theory, policy and research implications"	1974	0	2147483647	urban_migration:14	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	14	NA	NA
+9.89979E+18	" Discourse, identity, and China's internal migration: The long march to the city"	2011	0	2147483647	internal_migration_UK:86	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	86
+1.53016E+19	 The great migration: Rural-urban migration in China and Indonesia	2012	0	2147483647	urban_migration:49	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	49	NA	NA
+3.96065E+18	 Internal migration during modernization in late nineteenth-century Russia	2014	0	2147483647	internal_migration:89	FALSE	NA	NA	NA	NA	89	NA	NA	NA	NA	NA	NA
+1.05677E+19	"European labor markets, emigration and internal migration, 1850–1913"	2005	0	2147483647	"internal_migration_UK:88,internal_migration_housing:59"	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	59	88
+1.84028E+19	Urban migration and economic development in Chile	1966	0	2147483647	urban_migration:6	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	6	NA	NA
+1.55261E+19	 African rural-urban migration: the movement to Ghana's towns	1969	0	2147483647	urban_migration:2	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	2	NA	NA
+7.04745E+18	"Internal migration in England, 1818–1839"	1987	0	2147483647	"internal_migration_census_UK:21,internal_migration_UK:10"	FALSE	NA	NA	NA	NA	NA	NA	NA	21	NA	NA	10
+4.32726E+17	Can rural-urban migration into slums reduce poverty? Evidence from Ghana	2014	0	2147483647	urban_migration:68	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	68	NA	NA
+1.37602E+19	"Trade, rural–urban migration, and regional income disparity in developing countries: a spatial general equilibrium model inspired by the case of China"	2002	0	2147483647	urban_migration:66	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	66	NA	NA
+7.09867E+18	Internal migration in China: a dualistic approach	1999	0	2147483647	internal_migration:95	FALSE	NA	NA	NA	NA	95	NA	NA	NA	NA	NA	NA
+5.40597E+18	Internal migration and economic development under socialism: The case of Poland	1977	0	2147483647	internal_migration_housing:53	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	53	NA
+1.81318E+19	 Internal migration in India	2012	0	2147483647	internal_migration:96	FALSE	NA	NA	NA	NA	96	NA	NA	NA	NA	NA	NA
+5.44419E+18	"The influence of rural-urban migration on migrants' fertility in Korea, Mexico and Cameroon"	1993	0	2147483647	urban_migration:98	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	98	NA	NA
+3.90071E+18	Determinants of rural-urban migration in Ghana	1968	0	2147483647	urban_migration:20	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	20	NA	NA
+6.64948E+18	Research on rural-to-urban migration in LDCs: The confusion frontier and why we should pause to rethink afresh	1982	0	2147483647	urban_migration:73	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	73	NA	NA
+5.05511E+18	RURAL‐URBAN MIGRATION AND FAMILY TIES: AN ANALYSIS OF FAMILY CONSIDERATIONS IN MIGRATION BEHAVIOUR IN INDIA*	1981	0	2147483647	urban_migration:88	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	88	NA	NA
+1.4597E+19	Geographic labour mobility and the cost of housing: evidence from Italy	2000	0	2147483647	"internal_migration_market_UK:35,housing_market_mobility_UK:10,internal_migration_housing:5"	FALSE	NA	NA	NA	NA	NA	35	10	NA	NA	5	NA
+5.13681E+18	Healthy migrant and salmon bias hypotheses: a study of health and internal migration in China	2014	0	2147483647	internal_migration:78	FALSE	NA	NA	NA	NA	78	NA	NA	NA	NA	NA	NA
+1.09119E+19	Investigating population movement by stable isotope analysis: a report from Britain	2004	0	2147483647	residential_mobility_UK:88	FALSE	NA	NA	NA	88	NA	NA	NA	NA	NA	NA	NA
+4.7878E+18	Migration and changes in ABO and Rh blood group clines in Britain	1987	0	2147483647	internal_migration_UK:79	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	79
+1.64573E+19	Selection bias from differential residential mobility as an explanation for associations of wire codes with childhood cancer	1993	0	2147483647	residential_mobility_UK:75	FALSE	NA	NA	NA	75	NA	NA	NA	NA	NA	NA	NA
+8.70557E+17	 Residential mobility in the prehistoric southwest United States: a preliminary study using strontium isotope analysis	1994	0	2147483647	residential_mobility:47	FALSE	NA	NA	47	NA	NA	NA	NA	NA	NA	NA	NA
+4.25968E+18	Rural-to-urban migration and cardiovascular disease risk factors in young Guatemalan adults	2002	0	2147483647	urban_migration:60	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	60	NA	NA
+1.27242E+19	" Population mixing and childhood leukaemia and non-Hodgkin's lymphoma in census wards in England and Wales, 1966–87"	2002	0	2147483647	internal_migration_census_UK:91	FALSE	NA	NA	NA	NA	NA	NA	NA	91	NA	NA	NA
+1.0036E+19	"Anglo-Saxon residential mobility at West Heslerton, North Yorkshire, UK from combined O-and Sr-isotope analysis"	2003	0	2147483647	residential_mobility_UK:17	FALSE	NA	NA	NA	17	NA	NA	NA	NA	NA	NA	NA
+4.93697E+18	Utility of multiple chemical techniques in archaeological residential mobility studies: Case studies from Tiwanaku‐and Chiribaya‐affiliated sites in the Andes	2007	0	2147483647	residential_mobility_UK:71	FALSE	NA	NA	NA	71	NA	NA	NA	NA	NA	NA	NA
+2.30646E+18	Isotopic investigation of diet and residential mobility in the Neolithic of the Lower Rhine Basin	2010	0	2147483647	residential_mobility_UK:49	FALSE	NA	NA	NA	49	NA	NA	NA	NA	NA	NA	NA
+1.60613E+19	Epigenetic signatures of internal migration in Italy	2015	0	2147483647	internal_migration_UK:92	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	92
+1.84528E+18	Test of the 'healthy migrant hypothesis': a longitudinal analysis of health selectivity of internal migration in Indonesia	2008	0	2147483647	internal_migration:55	FALSE	NA	NA	NA	NA	55	NA	NA	NA	NA	NA	NA
+2.49855E+18	 The effect of rural-to-urban migration on obesity and diabetes in India: a cross-sectional study	2010	0	2147483647	urban_migration:23	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	23	NA	NA
+7.7819E+18	 Dietary intake and rural-urban migration in India: a cross-sectional study	2011	0	2147483647	urban_migration:83	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	83	NA	NA
+8.14643E+18	 Moving away from silence: music of the Peruvian altiplano and the experience of urban migration	2010	0	2147483647	urban_migration:21	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	21	NA	NA
+5.08668E+18	Internal Migration and its Effects upon the Death-Rates: with Special Reference to the County of Essex.	1925	0	2147483647	internal_migration_UK:78	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	78
+1.23715E+19	On the specification and estimation of macro rural-urban migration functions: with an application to Indian data.	1981	0	2147483647	urban_migration:85	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	85	NA	NA
+1.77811E+19	Internal migration in the USSR: 1897–1926	1967	0	2147483647	internal_migration_census_UK:70	FALSE	NA	NA	NA	NA	NA	NA	NA	70	NA	NA	NA
+9.56094E+18	Internal migration in Russia in the late nineteenth century	1968	0	2147483647	internal_migration_census_UK:96	FALSE	NA	NA	NA	NA	NA	NA	NA	96	NA	NA	NA
+1.10315E+18	The dynamics of US internal migration	1993	0	2147483647	internal_migration:10	FALSE	NA	NA	NA	NA	10	NA	NA	NA	NA	NA	NA
+1.57581E+19	"Migration and mobility in a less mature economy: English internal migration, c. 1200-1350"	2000	0	2147483647	internal_migration_UK:73	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	73
+6.6152E+18	What's in a settlement? Domestic practice and residential mobility in Early Bronze Age southern England	2012	0	2147483647	residential_mobility_UK:4	FALSE	NA	NA	NA	4	NA	NA	NA	NA	NA	NA	NA
+1.14836E+19	Isotopic evidence for residential mobility of farming communities during the transition to agriculture in Britain	2016	0	2147483647	residential_mobility_UK:24	FALSE	NA	NA	NA	24	NA	NA	NA	NA	NA	NA	NA
+5.35246E+18	 Migration in a mature economy: emigration and internal migration in England and Wales 1861-1900	2003	0	2147483647	"internal_migration:14,internal_migration_census_UK:39,internal_migration_UK:0"	FALSE	NA	NA	NA	NA	14	NA	NA	39	NA	NA	0
+1.07312E+19	Economic factors and internal migration: the case of nineteenth-century England	1980	0	2147483647	internal_migration_census_UK:90	FALSE	NA	NA	NA	NA	NA	NA	NA	90	NA	NA	NA
+4.72871E+18	Internal migration and regional population dynamics in Europe: Romanian case study	1997	0	2147483647	internal_migration_UK:61	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	61
+1.27916E+19	Rural‐Urban Migration and Poverty: The Case of India	1997	0	2147483647	urban_migration:76	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	76	NA	NA
+6.08773E+18	Internal migration and regional population dynamics in Europe: Sweden case study	2001	0	2147483647	internal_migration_UK:46	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	46
+2.00256E+18	Demographic and socioeconomic determinants of female rural to urban migration in Sub-Saharan Africa	1993	0	2147483647	urban_migration:72	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	72	NA	NA
+3.65104E+18	Violence or economics: what drives internal migration in Guatemala?	1993	0	2147483647	internal_migration:80	FALSE	NA	NA	NA	NA	80	NA	NA	NA	NA	NA	NA
+7.09596E+18	The Hukou System and Rural-Urban Migration in China: Processes and Changes*	1999	0	2147483647	urban_migration:7	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	7	NA	NA
+8.22601E+17	 Rural-urban migration in Bangladesh: a micro-level study	2001	0	2147483647	urban_migration:55	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	55	NA	NA
+1.58363E+18	 Post-apartheid patterns of internal migration in South Africa	2003	0	2147483647	"internal_migration:32,internal_migration_census_UK:89"	FALSE	NA	NA	NA	NA	32	NA	NA	89	NA	NA	NA
+8.94459E+18	Modeling internal migration flows in sub-Saharan Africa using census microdata	2015	0	2147483647	"internal_migration_census_UK:5,internal_migration_UK:77"	FALSE	NA	NA	NA	NA	NA	NA	NA	5	NA	NA	77
+4.90217E+17	Rural-urban migration in Colombia	1971	0	2147483647	urban_migration:9	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	9	NA	NA
+1.40327E+19	Rural-urban migration and urban underemployment in Brazil	1976	0	2147483647	urban_migration:51	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	51	NA	NA
+1.55225E+19	 Internal migration in India: are the underprivileged migrating more	2010	0	2147483647	internal_migration:97	FALSE	NA	NA	NA	NA	97	NA	NA	NA	NA	NA	NA
+6.70985E+18	 Internal migration in the Klang Valley of Malaysia: Issues and implications	2012	0	2147483647	internal_migration_housing:76	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	76	NA
+1.3139E+19	"Internal migration and socio-economic status of migrants: a study in Sylhet City, Bangladesh"	2012	0	2147483647	internal_migration_housing:49	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	49	NA
+1.55053E+19	Relative deprivation and internal migration in the United States: A comparison of black and white men	2013	0	2147483647	internal_migration_housing:29	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	29	NA
+4.29623E+18	The role of rural–urban migration in the structural transformation of Sub-Saharan Africa	2014	0	2147483647	urban_migration:38	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	38	NA	NA
+1.73457E+19	Econometric analysis of factors of internal migration in Russia	2016	0	2147483647	internal_migration_housing:47	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	47	NA
+1.63919E+19	"Information flow, expectations and job search: Rural-to-urban migration process in India"	1984	0	2147483647	urban_migration:54	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	54	NA	NA
+1.24745E+19	Migration and the life course in contemporary Japan	2003	0	2147483647	internal_migration_census_UK:60	FALSE	NA	NA	NA	NA	NA	NA	NA	60	NA	NA	NA
+5.92223E+18	Rural industrialisation and internal migration in China	2002	0	2147483647	internal_migration:49	FALSE	NA	NA	NA	NA	49	NA	NA	NA	NA	NA	NA
+3.34636E+18	China: internal migration	2013	0	2147483647	internal_migration:7	FALSE	NA	NA	NA	NA	7	NA	NA	NA	NA	NA	NA
+1.28686E+19	Internal migration and regional population dynamics in Europe: Denmark case study	2001	0	2147483647	"internal_migration_market_UK:74,internal_migration_UK:60"	FALSE	NA	NA	NA	NA	NA	74	NA	NA	NA	NA	60
+3.95171E+18	The effects of rural-urban migration on rural communities of southeastern Nigeria	2013	0	2147483647	urban_migration:84	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	84	NA	NA
+5.73567E+18	The causal effects of rural-to-urban migration on children's well-being in China	2015	0	2147483647	urban_migration:69	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	69	NA	NA
+1.52612E+19	Internal migration and the war	1943	0	2147483647	internal_migration_housing:70	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	70	NA
+1.53248E+19	" Internal migration of the older population, 1995 to 2000"	2003	0	2147483647	internal_migration_census_UK:75	FALSE	NA	NA	NA	NA	NA	NA	NA	75	NA	NA	NA
+8.45404E+18	Housing vouchers and residential mobility	2003	0	2147483647	residential_mobility:72	FALSE	NA	NA	72	NA	NA	NA	NA	NA	NA	NA	NA
+1.27019E+19	The structure of sociability: Urban migration and urban—rural ties in Kenya	1976	0	2147483647	urban_migration:90	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	90	NA	NA
+1.78022E+19	"Distance and direction as vectors of internal migration, 1935 to 1940"	1948	0	2147483647	internal_migration_census_UK:54	FALSE	NA	NA	NA	NA	NA	NA	NA	54	NA	NA	NA
+6.65064E+18	Immigration and internal migration'flight'from US metropolitan areas: Toward a new demographic Balkanisation	1995	0	2147483647	internal_migration:24	FALSE	NA	NA	NA	NA	24	NA	NA	NA	NA	NA	NA
+1.13969E+19	Immigration and internal migration “flight”: A California case study	1995	0	2147483647	internal_migration:35	FALSE	NA	NA	NA	NA	35	NA	NA	NA	NA	NA	NA
+1.39532E+19	"Immigration, domestic migration, and demographic balkanization in America: new evidence for the 1990s"	1996	0	2147483647	internal_migration_census_UK:99	FALSE	NA	NA	NA	NA	NA	NA	NA	99	NA	NA	NA
+1.33586E+19	Elderly internal migration in the United States revisited	2000	0	2147483647	internal_migration:90	FALSE	NA	NA	NA	NA	90	NA	NA	NA	NA	NA	NA
+5.17255E+18	Internal Migration of the Foreign-Born in Canada	1996	0	2147483647	"internal_migration:65,internal_migration_census_UK:98"	FALSE	NA	NA	NA	NA	65	NA	NA	98	NA	NA	NA
+3.1209E+18	Migrant housing in urban China: choices and constraints	2002	0	2147483647	internal_migration_housing:46	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	46	NA
+1.97082E+18	"Housing stock: a constraint on urban residential migration in Uyo, Nigeria"	1981	0	2147483647	internal_migration_housing:20	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	NA	20	NA
+1.28744E+19	"Internal migration, remittances and poverty: evidence from Ghana and India"	2012	0	2147483647	"internal_migration_census_UK:38,internal_migration_UK:26"	FALSE	NA	NA	NA	NA	NA	NA	NA	38	NA	NA	26
+8.94572E+18	Internal migration and health: re-examining the healthy migrant phenomenon in China	2011	0	2147483647	internal_migration:41	FALSE	NA	NA	NA	NA	41	NA	NA	NA	NA	NA	NA
