@@ -24,6 +24,8 @@
   - [Sun Apr 19 16:59:07 UTC 2020] : layer 1 keywords finished ; 229373;400813;29786
   - set first layer priority : db.references.updateMany({depth:{$gt:0}},{$set:{priority:NumberInt(1)}})
      { "acknowledged" : true, "matchedCount" : 33835, "modifiedCount" : 30550 }
-  - collect 5 thread [Sun 19 Apr 2020 18:34:08 BST] killed Mon Apr 20 10:32:24 UTC 2020 ; relaunched 7 threads [Tue Apr 21 14:35:30 UTC 2020]
-
+  - collect 5 thread [Sun 19 Apr 2020 18:34:08 BST] killed Mon Apr 20 10:32:24 UTC 2020 ; relaunched 7 threads [Tue Apr 21 14:35:30 UTC 2020] ; killed on [Wed Apr 22 13:22:52 UTC 2020]
+  - export full snapshot: 336487;644607;20201 ; export/corpus_full_20200422 
+  - set hdepth for manual corpus db.references.updateOne({id:"17370031151598186972"},{$set:{horizontalDepth:{"laws_of_migration":NumberInt(1)}}}) ; db.references.updateOne({id:"14457835454175026919"},{$set:{horizontalDepth:{"theory_of_migration":NumberInt(1)}}}) ; db.references.updateOne({id:"8849441207113080135"},{$set:{horizontalDepth:{"costs_and_returns_human_migration":NumberInt(1)}}}) ; db.references.updateOne({id:"3467138637205862494"},{$set:{horizontalDepth:{"families_move":NumberInt(1)}}}) (! also int, as depth) ; reexport full (missing hdpeths) 
+  - collect 10 threads [Thu Apr 23 14:14:05 UTC 2020]
 
