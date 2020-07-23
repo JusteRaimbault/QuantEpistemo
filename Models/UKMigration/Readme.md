@@ -32,3 +32,7 @@
 * export
  - [Thu Jul 23 10:25:51 UTC 2020] Full corpus: java -jar bibliodata.jar --database --export ukmigration export/corpus_full -1 -1 2 false "" -1
  - [Thu Jul 23 11:44:57 UTC 2020] Filtered: java -jar bibliodata.jar --database --export ukmigration export/corpus_filtered -1 -1 2 data/seedcorpus_exclude.csv "" -1
+
+* mendeley data
+ - [Thu Jul 23 20:19:36 UTC 2020] tests: author string incorrect for [467521895713926071,11100224317842467237,1960687713625528252,13069639178635581156,2840789860386075865,3843475204841863044,4974885501506490568,17662431745840099933,6836233999900169055,5352464221420183959] and [9405131435028266265] - (first test) ; and Keywords! ; launch for 100,000 (large test) - STOP stuck on a ref 61093635834171547: bug?
+
