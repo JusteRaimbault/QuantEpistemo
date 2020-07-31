@@ -7,3 +7,6 @@
 [submodule "Models/SeminalNetworks"]
 	path = Models/SeminalNetworks
 	url = git@github.com:JusteRaimbault/SeminalNetworks.git
+[submodule "Models/UKMigration"]
+	path = Models/UKMigration
+	url = git@github.com:JusteRaimbault/UKMigration.git
