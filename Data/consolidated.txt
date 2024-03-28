@@ -2,7 +2,7 @@
 ## content of conso db
 
 
-* 2024/03/24 : consolidate digtwinsustdev, alife, geosimvalid, spatialmicrosim, urbsim [!! TODO check urbsim bugged?: "[Sun Mar 24 08:21:17 UTC 2024] For database urbsim : 4988 references ; total refs 693157" -> strange ] [using $UBUNTU/$CS_HOME/QuantEpistemo/Models/BiblioData/jar/bibliodata.jar [update jan 23] @ 47159aae8d0365f]: from (1008736, 1684629) to 
+* 2024/03/24 : consolidate digtwinsustdev, alife, geosimvalid, spatialmicrosim, urbsim [!! TODO check urbsim bugged?: "[Sun Mar 24 08:21:17 UTC 2024] For database urbsim : 4988 references ; total refs 693157" -> strange | in fact total refs: ok ] [using $UBUNTU/$CS_HOME/QuantEpistemo/Models/BiblioData/jar/bibliodata.jar [update jan 23] @ 47159aae8d0365f]: from (1008736, 1684629) to [on 2024/03/28 7h19: (1221125,2044371) - still running - rq: very slow, pb with missing indexation? TODO investigate] 
 * 2019/06/16 : all conso OK
 * 2019/06/14 : conso zipf OK ; running turingmorpho, citynetwork, urbangrowth
 * 2019/06/12 : conso nwterrit : OK
